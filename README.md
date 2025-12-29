@@ -29,7 +29,7 @@ And I genuinely enjoy being involved in **all of it**.
 
 I’m currently a **CS undergrad at VIT**, learning by building and collaborating.
 
----
+
 
 ## 🛠 Tools & Tech I Use
 
@@ -79,7 +79,7 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"/>
 </p>
 
----
+
 
 ## 📌 Selected Work
 
@@ -95,7 +95,7 @@ with authentication and a clean backend structure.
 An **on-device TensorFlow.js extension** that detects binge scrolling  
 and nudges users toward mindful usage.
 
----
+
 
 ## 🤝 Business, Marketing & Outreach
 
@@ -114,7 +114,7 @@ and nudges users toward mindful usage.
 
 I like creating **the right conversations — and turning them into momentum**.
 
----
+
 
 ## 🌱 What I’m Optimizing For
 - Meaningful Web3 ecosystems  
@@ -122,7 +122,7 @@ I like creating **the right conversations — and turning them into momentum**.
 - Product thinking & distribution strategy  
 - Blending **engineering + business development**  
 
----
+
 
 ## 📬 Let’s Connect
 <p align="center">
