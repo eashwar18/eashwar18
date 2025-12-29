@@ -17,7 +17,7 @@ And I genuinely enjoy being involved in **all of it**.
 
 <br/>
 
----
+
 
 <br/>
 
@@ -40,7 +40,7 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 <br/>
 
----
+
 
 <br/>
 
@@ -96,7 +96,7 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 <br/>
 
----
+
 
 <br/>
 
@@ -120,7 +120,7 @@ and nudges users toward mindful usage.
 
 <br/>
 
----
+
 
 <br/>
 
@@ -147,7 +147,7 @@ I like creating **the right conversations — and turning them into momentum**.
 
 <br/>
 
----
+
 
 <br/>
 
@@ -160,7 +160,7 @@ I like creating **the right conversations — and turning them into momentum**.
 
 <br/>
 
----
+
 
 <br/>
 
