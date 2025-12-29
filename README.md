@@ -44,7 +44,8 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 
 
-<h2 align="center">🔗 Web3</h2>
+<p align="center"><strong>🔗 Web3</strong></p>
+
 
 <p align="center">
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
