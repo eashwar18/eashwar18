@@ -41,7 +41,8 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 
 
-## 🛠 Tools & Tech I Use  
+<h2 align="center">🧰 Tools</h2>
+
 
 <br/>
 
