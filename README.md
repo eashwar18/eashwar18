@@ -12,7 +12,7 @@ For me, tech isn’t just code. It’s:
 
 And I genuinely enjoy being involved in **all of it**.
 
----
+
 
 ## 🚀 What I Work On
 
