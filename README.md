@@ -43,7 +43,6 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 ## 🛠 Tools & Tech I Use
 
 
-<br/>
 
 <h2 align="center">🔗 Web3</h2>
 
