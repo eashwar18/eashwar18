@@ -6,8 +6,8 @@
 
 I like working where **technology, people, and strategy intersect**.
 
-On one side, I build — mostly around **Web3, smart contracts, and backend systems**.  
-On the other, I work on the **business layer — outreach, partnerships, community, and go-to-market**.
+On one side, I build , mostly around **Web3, smart contracts, and backend systems**.  
+On the other, I work on the **business layer : outreach, partnerships, community, and go-to-market**.
 
 For me, tech isn’t just code. It’s:
 > 💬 relationships → 📈 adoption → 🔗 ecosystems → 🧠 real-world value
@@ -35,38 +35,38 @@ I’m currently a **CS undergrad @ VIT**, learning by building and collaborating
 
 ## 📌 Selected Work
 
-### 💠 DeFiLe — Decentralized Lending Protocol
-Built a **Solidity-based lending protocol** that auto-routes ERC-20 repayments —  
+### 💠 DeFiLe : Decentralized Lending Protocol
+Built a **Solidity-based lending protocol** that auto-routes ERC-20 repayments -  
 while also engaging Web3 communities for feedback, usability and trust.
 
 ---
 
-### 📚 StudySurf — Education Resource Platform
+### 📚 StudySurf : Education Resource Platform
 Designed a **Django + PostgreSQL** platform that centralizes learning resources with authentication and clean backend structure.
 
 ---
 
-### 🧠 ReelSense — AI Digital-Wellbeing Chrome Extension
+### 🧠 ReelSense : AI Digital-Wellbeing Chrome Extension
 An **on-device TensorFlow.js extension** that detects binge scrolling and nudges users toward mindful usage.
 
 ---
 
 ## 🤝 Business, Marketing & Outreach
 
-### 🧩 Client & Business Strategist — Konnichiwow
+### 🧩 Client & Business Strategist - Konnichiwow
 - Built & nurtured relationships with creators and partners  
 - Structured outreach and follow-up pipelines  
 - Helped shape GTM & growth thinking  
 
-### 🎙 IEEE-CS @ VIT — Core Committee
+### 🎙 IEEE-CS @ VIT - Core Committee
 - Led outreach for 1k+ attendee tech events  
 - Managed sponsors, speakers & partnerships  
 
-### 🏢 ViTality ’25 — Organizer
+### 🏢 ViTality ’25 - Organizer
 - Coordinated with speakers from **Google, Virtusa & Continental**  
 - Streamlined communication & execution across teams  
 
-I like making **the right conversations happen — then turning them into momentum**.
+I like making **the right conversations happen , then turning them into momentum**.
 
 ---
 
@@ -126,4 +126,4 @@ I like making **the right conversations happen — then turning them into moment
   </a>
 </p>
 
-✨ *If you’re building in Web3, creator ecosystems, growth or AI — I’d love to chat.*
+✨ *If you’re building in Web3, creator ecosystems, growth or AI - I’d love to chat.*
