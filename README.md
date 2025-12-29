@@ -40,13 +40,13 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 
 
-
-<h2 align="center">🧰 Tools</h2>
+## 🛠 Tools & Tech I Use
 
 
 <br/>
 
-### 🔗 Web3  
+<h2 align="center">🔗 Web3</h2>
+
 <p align="center">
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg"/>
   &nbsp;&nbsp;&nbsp;
@@ -55,7 +55,8 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 <br/>
 
-### 👨‍💻 Programming & Frameworks  
+<h3 align="center">👨‍💻 Programming & Frameworks</h3>
+
 <p align="center">
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
   &nbsp;&nbsp;&nbsp;
@@ -70,7 +71,8 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 <br/>
 
-### 📊 Databases  
+<h4 align="center">📊 Databases</h4>
+
 <p align="center">
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   &nbsp;&nbsp;&nbsp;
@@ -81,7 +83,8 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 <br/>
 
-### 🧰 Tools  
+<h5 align="center">🧰 Tools</h5>
+
 <p align="center">
   <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   &nbsp;&nbsp;&nbsp;
