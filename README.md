@@ -1,6 +1,5 @@
 <h1 align="center">Eashwar Shankar</h1>
 
-<br/>
 
 ## 🧩 Who I Am  
 
@@ -19,7 +18,6 @@ And I genuinely enjoy being involved in **all of it**.
 
 
 
-<br/>
 
 ## 🚀 What I Work On  
 
@@ -42,7 +40,6 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 
 
 
-<br/>
 
 ## 🛠 Tools & Tech I Use  
 
@@ -97,9 +94,6 @@ I’m currently a **CS undergrad at VIT**, learning by building and collaboratin
 <br/>
 
 
-
-<br/>
-
 ## 📌 Selected Work  
 
 ### 🔷 DeFiLe : Decentralized Lending Protocol  
@@ -121,8 +115,6 @@ and nudges users toward mindful usage.
 <br/>
 
 
-
-<br/>
 
 ## 🤝 Business, Marketing & Outreach  
 
